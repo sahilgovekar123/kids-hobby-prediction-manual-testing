@@ -79,20 +79,19 @@ Hobby Horizons
 ![Home](Hobby%20Horizons/images/home.png)
 ### Registration
 
-![Registration](images/registration.png)
+![Registration](Hobby%20Horizons/images/registration.png)
 
 ### Login
 
-![Login](images/login.png)
+![Login](Hobby%20Horizons/images/login.png)
 
 ### Prediction
 
-![Prediction](images/prediction.png)
+![Prediction](Hobby%20Horizons/images/prediction.png)
 
 ### Result
 
-![Result](images/result.png)
-
+![Result](Hobby%20Horizons/images/result.png)
 ---
 
 ## Test Environment
