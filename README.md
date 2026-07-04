@@ -17,7 +17,6 @@ A Flask-based web application that predicts suitable hobbies for children based 
 - HTML
 - CSS
 - SQLite
-- Jinja2
 
 ## Project Structure
 
